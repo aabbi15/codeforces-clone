@@ -249,6 +249,14 @@ table.ratings td:nth-child(1) {
     border-left: none;
     /* background-color: #3b5998; */
 }
+.lastrow td{
+    background-color: #b9b9b9;
+    text-align: left;
+    padding-left: 10px;
+    /* margin-left: 10px; */
+    
+
+}
 
 table.ratings td:nth-child(2) {
     border-left: none;
